@@ -30,9 +30,11 @@ I worked with 3 tables – **8,889 events**, **818 orders**, and **200 products*
 
 
 ## Files in this repo
-- `schema.sql` – To create the tables
-- `queries.sql` – All the SQL queries I wrote
-- `/images` – Screenshots of my charts
+
+- `schema.sql` – Database table creation script
+- `queries.sql` – All 8 analysis queries  
+- `/images` – Chart screenshots created using DBeaver Graph Visualizer
+- `/outputs` – Raw CSV output data for all 8 queries
 
 
 ## Let's connect
