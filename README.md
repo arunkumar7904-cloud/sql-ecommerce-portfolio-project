@@ -41,4 +41,7 @@ I worked with 3 tables – **8,889 events**, **818 orders**, and **200 products*
 
 I'm actively looking for data roles – feel free to reach out!
 
-[LinkedIn – paste your link here]
+[www.linkedin.com/in/
+arunkumar7905
+Vanity URL name
+]
